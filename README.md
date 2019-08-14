@@ -3,7 +3,7 @@
 a project given by Professor Ludovic Denoyer ( Sorbonne University LIP6 )
 It is my First real get-in-touch  ML project !
 
-I've tried in through this project to analyse some interesting topics whithin soccer data 
+I've tried through this project to analyze some interesting topics whithin soccer data 
 
 the data was downloaded from this Kaggle Kernel  https://www.kaggle.com/hugomathien/soccer
 
